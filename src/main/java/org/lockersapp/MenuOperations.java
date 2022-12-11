@@ -131,7 +131,7 @@ public class MenuOperations {
                     System.out.println("\n");
                     break;
 
-                case 4: screen.mainOptionsScreen();
+                case 4: selectMainOptions();
                     break;
                 default:
                     System.out.println("You can only select options from 1 to 4.");
